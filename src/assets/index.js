@@ -1,4 +1,4 @@
-import Chandan from "./parth.svg";
+import Chandan from "./Chandan.svg";
 import profilePic from "./profile-pic.jpg";
 import menu from "./menu.svg";
 import close from "./close.svg";
