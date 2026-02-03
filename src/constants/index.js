@@ -252,7 +252,7 @@ export const achievements = [
     content2: "",
     content3: "",
     youtube: "https://www.youtube.com/watch?v=X2473En3h_o&t=5278s",
-    project: "https://parthmittal.netlify.app/",
+    project: "https://Chandan.netlify.app/",
   },
   {
     id: "a-10",
@@ -906,7 +906,7 @@ export const projects = [
     id: "project-10",
     title: "Portfolio",
     github: "https://github.com/mittal-parth/personal-portfolio",
-    link: "https://parthmittal.netlify.app/",
+    link: "https://Chandan.netlify.app/",
     image: portfolio,
     content: "Open source developer portfolio template with modern UI/UX. 140+ stars on GitHub.",
     stack: [
@@ -1141,7 +1141,7 @@ export const socialMedia = [
   {
     id: "social-media-3",
     icon: AiFillMail,
-    link: "mailto:work.parthmittal@gmail.com",
+    link: "mailto:work.Chandan@gmail.com",
   },
   {
     id: "social-media-4",
